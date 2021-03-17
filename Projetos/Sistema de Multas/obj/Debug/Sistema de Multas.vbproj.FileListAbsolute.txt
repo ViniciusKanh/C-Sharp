@@ -1,0 +1,48 @@
+C:/Users/vinicius/source/repos/Sistema de Multas/bin/Debug/Sistema de Multas.exe.config
+C:/Users/vinicius/source/repos/Sistema de Multas/bin/Debug/Sistema de Multas.exe
+C:/Users/vinicius/source/repos/Sistema de Multas/bin/Debug/Sistema de Multas.pdb
+C:/Users/vinicius/source/repos/Sistema de Multas/bin/Debug/Sistema de Multas.xml
+C:/Users/vinicius/source/repos/Sistema de Multas/obj/Debug/Sistema de Multas.vbprojAssemblyReference.cache
+C:/Users/vinicius/source/repos/Sistema de Multas/obj/Debug/Sistema_de_Multas.Resources.resources
+C:/Users/vinicius/source/repos/Sistema de Multas/obj/Debug/Sistema de Multas.vbproj.GenerateResource.cache
+C:/Users/vinicius/source/repos/Sistema de Multas/obj/Debug/Sistema de Multas.vbproj.CoreCompileInputs.cache
+C:/Users/vinicius/source/repos/Sistema de Multas/obj/Debug/Sistema de Multas.exe
+C:/Users/vinicius/source/repos/Sistema de Multas/obj/Debug/Sistema de Multas.xml
+C:/Users/vinicius/source/repos/Sistema de Multas/obj/Debug/Sistema de Multas.pdb
+C:/Users/vinicius/source/repos/Sistema de Multas/obj/Debug/Sistema_de_Multas.Login.resources
+C:/Users/vinicius/source/repos/Sistema de Multas/obj/Debug/Sistema_de_Multas.Menu_Principal.resources
+C:/Users/vinicius/source/repos/Sistema de Multas/obj/Debug/Sistema_de_Multas.RESAM.resources
+C:/Users/ERIS/Desktop/Sistema de Multas/bin/Debug/Sistema de Multas.exe.config
+C:/Users/ERIS/Desktop/Sistema de Multas/bin/Debug/Sistema de Multas.exe
+C:/Users/ERIS/Desktop/Sistema de Multas/bin/Debug/Sistema de Multas.pdb
+C:/Users/ERIS/Desktop/Sistema de Multas/bin/Debug/Sistema de Multas.xml
+C:/Users/ERIS/Desktop/Sistema de Multas/obj/Debug/Sistema de Multas.vbprojAssemblyReference.cache
+C:/Users/ERIS/Desktop/Sistema de Multas/obj/Debug/Sistema_de_Multas.C_StatusdeJulgamento.resources
+C:/Users/ERIS/Desktop/Sistema de Multas/obj/Debug/Sistema_de_Multas.Login.resources
+C:/Users/ERIS/Desktop/Sistema de Multas/obj/Debug/Sistema_de_Multas.Menu_Principal.resources
+C:/Users/ERIS/Desktop/Sistema de Multas/obj/Debug/Sistema_de_Multas.Recurso.resources
+C:/Users/ERIS/Desktop/Sistema de Multas/obj/Debug/Sistema_de_Multas.RESAM.resources
+C:/Users/ERIS/Desktop/Sistema de Multas/obj/Debug/Sistema_de_Multas.Resources.resources
+C:/Users/ERIS/Desktop/Sistema de Multas/obj/Debug/Sistema de Multas.vbproj.GenerateResource.cache
+C:/Users/ERIS/Desktop/Sistema de Multas/obj/Debug/Sistema de Multas.vbproj.CoreCompileInputs.cache
+C:/Users/ERIS/Desktop/Sistema de Multas/obj/Debug/Sistema de Multas.exe
+C:/Users/ERIS/Desktop/Sistema de Multas/obj/Debug/Sistema de Multas.xml
+C:/Users/ERIS/Desktop/Sistema de Multas/obj/Debug/Sistema de Multas.pdb
+C:/Users/ERIS/Desktop/Sistema de Multas/obj/Debug/Sistema_de_Multas.Linha.resources
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema de Multas/bin/Debug/Sistema de Multas.exe.config
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema de Multas/bin/Debug/Sistema de Multas.exe
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema de Multas/bin/Debug/Sistema de Multas.pdb
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema de Multas/bin/Debug/Sistema de Multas.xml
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema de Multas/obj/Debug/Sistema de Multas.vbprojAssemblyReference.cache
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema de Multas/obj/Debug/Sistema_de_Multas.C_StatusdeJulgamento.resources
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema de Multas/obj/Debug/Sistema_de_Multas.Linha.resources
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema de Multas/obj/Debug/Sistema_de_Multas.Login.resources
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema de Multas/obj/Debug/Sistema_de_Multas.Menu_Principal.resources
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema de Multas/obj/Debug/Sistema_de_Multas.Recurso.resources
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema de Multas/obj/Debug/Sistema_de_Multas.RESAM.resources
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema de Multas/obj/Debug/Sistema_de_Multas.Resources.resources
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema de Multas/obj/Debug/Sistema de Multas.vbproj.GenerateResource.cache
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema de Multas/obj/Debug/Sistema de Multas.vbproj.CoreCompileInputs.cache
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema de Multas/obj/Debug/Sistema de Multas.exe
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema de Multas/obj/Debug/Sistema de Multas.xml
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema de Multas/obj/Debug/Sistema de Multas.pdb

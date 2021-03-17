@@ -26,3 +26,17 @@ C:/Users/hugov/source/repos/SistemaHotel/SistemaHotel/obj/Debug/SistemaHotel.Pro
 /Users/mac/Downloads/Arquivos/Arquivos Projeto/SistemaHotel/SistemaHotel/obj/Debug/SistemaHotel.csproj.CoreCompileInputs.cache
 /Users/mac/Downloads/Arquivos/Arquivos Projeto/SistemaHotel/SistemaHotel/obj/Debug/SistemaHotel.exe
 /Users/mac/Downloads/Arquivos/Arquivos Projeto/SistemaHotel/SistemaHotel/obj/Debug/SistemaHotel.pdb
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema Hotel/Arquivos Projeto/SistemaHotel/SistemaHotel/bin/Debug/SistemaHotel.exe.config
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema Hotel/Arquivos Projeto/SistemaHotel/SistemaHotel/bin/Debug/SistemaHotel.exe
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema Hotel/Arquivos Projeto/SistemaHotel/SistemaHotel/bin/Debug/SistemaHotel.pdb
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema Hotel/Arquivos Projeto/SistemaHotel/SistemaHotel/obj/Debug/SistemaHotel.csprojAssemblyReference.cache
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema Hotel/Arquivos Projeto/SistemaHotel/SistemaHotel/obj/Debug/SistemaHotel.Cadastros.FrmCargo.resources
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema Hotel/Arquivos Projeto/SistemaHotel/SistemaHotel/obj/Debug/SistemaHotel.Cadastros.FrmFuncionarios.resources
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema Hotel/Arquivos Projeto/SistemaHotel/SistemaHotel/obj/Debug/SistemaHotel.FrmLogin.resources
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema Hotel/Arquivos Projeto/SistemaHotel/SistemaHotel/obj/Debug/SistemaHotel.FrmMenu.resources
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema Hotel/Arquivos Projeto/SistemaHotel/SistemaHotel/obj/Debug/SistemaHotel.Produtos.FrmProdutos.resources
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema Hotel/Arquivos Projeto/SistemaHotel/SistemaHotel/obj/Debug/SistemaHotel.Properties.Resources.resources
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema Hotel/Arquivos Projeto/SistemaHotel/SistemaHotel/obj/Debug/SistemaHotel.csproj.GenerateResource.cache
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema Hotel/Arquivos Projeto/SistemaHotel/SistemaHotel/obj/Debug/SistemaHotel.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema Hotel/Arquivos Projeto/SistemaHotel/SistemaHotel/obj/Debug/SistemaHotel.exe
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema Hotel/Arquivos Projeto/SistemaHotel/SistemaHotel/obj/Debug/SistemaHotel.pdb
