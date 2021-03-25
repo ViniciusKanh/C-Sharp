@@ -1,0 +1,16 @@
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema de Multas/bin/Release/Sistema de Multas.exe.config
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema de Multas/bin/Release/Sistema de Multas.exe
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema de Multas/bin/Release/Sistema de Multas.pdb
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema de Multas/bin/Release/Sistema de Multas.xml
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema de Multas/obj/Release/Sistema_de_Multas.C_StatusdeJulgamento.resources
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema de Multas/obj/Release/Sistema_de_Multas.Linha.resources
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema de Multas/obj/Release/Sistema_de_Multas.Login.resources
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema de Multas/obj/Release/Sistema_de_Multas.Menu_Principal.resources
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema de Multas/obj/Release/Sistema_de_Multas.Recurso.resources
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema de Multas/obj/Release/Sistema_de_Multas.RESAM.resources
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema de Multas/obj/Release/Sistema_de_Multas.Resources.resources
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema de Multas/obj/Release/Sistema de Multas.vbproj.GenerateResource.cache
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema de Multas/obj/Release/Sistema de Multas.vbproj.CoreCompileInputs.cache
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema de Multas/obj/Release/Sistema de Multas.exe
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema de Multas/obj/Release/Sistema de Multas.xml
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Sistema de Multas/obj/Release/Sistema de Multas.pdb

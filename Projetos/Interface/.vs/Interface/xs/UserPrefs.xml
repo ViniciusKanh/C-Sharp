@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{595DC9B6-24F4-45A6-86B1-50A5BAAF5A90}|Default">
+  <MonoDevelop.Ide.ItemProperties.InterfaceExercicio PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="InterfaceExercicio/Servicos/ServicoContrato.cs">
+    <Files>
+      <File FileName="InterfaceExercicio/Program.cs" Line="29" Column="67" />
+      <File FileName="InterfaceExercicio/Entidades/Contratos.cs" Line="22" Column="28" />
+      <File FileName="InterfaceExercicio/Entidades/Prestacao.cs" Line="14" Column="10" />
+      <File FileName="InterfaceExercicio/Servicos/ServicoContrato.cs" Line="27" Column="34" />
+      <File FileName="InterfaceExercicio/Servicos/PagamentosOnline.cs" Line="6" Column="29" />
+      <File FileName="InterfaceExercicio/Servicos/Paypal.cs" Line="17" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Interface" expanded="True">
+            <Node name="InterfaceExercicio" expanded="True">
+              <Node name="Entidades" expanded="True" />
+              <Node name="Servicos" expanded="True">
+                <Node name="ServicoContrato.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Interface PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

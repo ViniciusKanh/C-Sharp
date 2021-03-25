@@ -1,0 +1,15 @@
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Interface/InterfaceExercicio/bin/Debug/net6.0/InterfaceExercicio.deps.json
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Interface/InterfaceExercicio/bin/Debug/net6.0/InterfaceExercicio.runtimeconfig.json
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Interface/InterfaceExercicio/bin/Debug/net6.0/InterfaceExercicio.runtimeconfig.dev.json
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Interface/InterfaceExercicio/bin/Debug/net6.0/InterfaceExercicio.dll
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Interface/InterfaceExercicio/bin/Debug/net6.0/ref/InterfaceExercicio.dll
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Interface/InterfaceExercicio/bin/Debug/net6.0/InterfaceExercicio.pdb
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Interface/InterfaceExercicio/obj/Debug/net6.0/InterfaceExercicio.csprojAssemblyReference.cache
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Interface/InterfaceExercicio/obj/Debug/net6.0/InterfaceExercicio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Interface/InterfaceExercicio/obj/Debug/net6.0/InterfaceExercicio.AssemblyInfoInputs.cache
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Interface/InterfaceExercicio/obj/Debug/net6.0/InterfaceExercicio.AssemblyInfo.cs
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Interface/InterfaceExercicio/obj/Debug/net6.0/InterfaceExercicio.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Interface/InterfaceExercicio/obj/Debug/net6.0/InterfaceExercicio.dll
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Interface/InterfaceExercicio/obj/Debug/net6.0/ref/InterfaceExercicio.dll
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Interface/InterfaceExercicio/obj/Debug/net6.0/InterfaceExercicio.pdb
+/Users/mac/Documents/GitHub/C-Sharp/Projetos/Interface/InterfaceExercicio/obj/Debug/net6.0/InterfaceExercicio.genruntimeconfig.cache
